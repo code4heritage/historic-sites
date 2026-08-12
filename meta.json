@@ -24,9 +24,9 @@
     "version": "0.1.0"
   },
   "counts": {
-    "records": 1853,
+    "records": 1854,
     "files": 49,
-    "with_coordinates": 1815
+    "with_coordinates": 1816
   },
   "labels": {
     "ledger_id": "台帳ID",
@@ -64,40 +64,40 @@
     "has_photo": "写真の有無"
   },
   "fields": {
-    "ledger_id": 1853,
-    "managed_id": 1853,
-    "category_name": 1853,
-    "url": 1853,
-    "name": 1853,
-    "name_kana": 1853,
-    "types": 1853,
-    "period": 359,
+    "ledger_id": 1854,
+    "managed_id": 1854,
+    "category_name": 1854,
+    "url": 1854,
+    "name": 1854,
+    "name_kana": 1854,
+    "types": 1854,
+    "period": 360,
     "year_text": 7,
-    "area": 342,
+    "area": 343,
     "notes": 3,
-    "designation_kind": 1853,
-    "designation_number": 913,
-    "special_class": 765,
-    "designated_date": 1853,
+    "designation_kind": 1854,
+    "designation_number": 914,
+    "special_class": 766,
+    "designated_date": 1854,
     "special_designated_date": 8,
-    "added_date": 520,
-    "criteria": 1836,
+    "added_date": 521,
+    "criteria": 1837,
     "prefecture": 1833,
-    "address": 1833,
-    "latitude": 1815,
-    "longitude": 1815,
+    "address": 1834,
+    "latitude": 1816,
+    "longitude": 1816,
     "owner": 8,
     "owner_type": 8,
     "description": 392,
-    "detailed_description": 1491,
+    "detailed_description": 1492,
     "measures": 483,
-    "has_attachment": 1853,
-    "has_measures": 1853,
-    "has_photo": 1853
+    "has_attachment": 1854,
+    "has_measures": 1854,
+    "has_photo": 1854
   },
   "facets": {
     "types": {
-      "史跡": 1853,
+      "史跡": 1854,
       "名勝": 40,
       "特別名勝": 7,
       "天然記念物": 4
@@ -105,7 +105,7 @@
     "period": {
       "中世": 30,
       "古代": 25,
-      "近世": 19,
+      "近世": 20,
       "江戸時代": 14,
       "戦国時代": 9,
       "原始": 8,
@@ -334,7 +334,7 @@
       "一．貝塚、集落跡、古墳その他この類の遺跡": 730,
       "二．都城跡、国郡庁跡、城跡、官公庁、戦跡その他政治に関する遺跡": 440,
       "三．社寺の跡又は旧境内その他祭祀信仰に関する遺跡": 323,
-      "六．交通・通信施設、治山・治水施設、生産施設その他経済・生産活動に関する遺跡": 243,
+      "六．交通・通信施設、治山・治水施設、生産施設その他経済・生産活動に関する遺跡": 244,
       "七．墳墓及び碑": 107,
       "八．旧宅、園池その他特に由緒のある地域の類": 94,
       "一．公園、庭園": 41,
@@ -364,10 +364,10 @@
       "県、市、法人、個人": 1
     },
     "designation_kind": {
-      "指定": 1853
+      "指定": 1854
     },
     "special_class": {
-      "特別以外": 759,
+      "特別以外": 760,
       "特別": 6
     }
   },
@@ -658,7 +658,7 @@
       "path": "data/90_multiple-prefectures.jsonl",
       "area_code": "90",
       "area_name": "２県以上",
-      "records": 7
+      "records": 8
     },
     {
       "path": "data/99_unspecified.jsonl",
